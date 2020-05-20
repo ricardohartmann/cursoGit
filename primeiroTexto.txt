@@ -1,1 +1,2 @@
-primeiro arquivo
+primeiro arquivo foi commitado corretamente
+Agora, estou fazendo uma atualização para commitar de novo e ver como o git trata isso
